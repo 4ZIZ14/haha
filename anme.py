@@ -1,5 +1,6 @@
 #!/usr/bin/python2
 # coding=utf-8
+#good
 
 #Import module
 import os,sys,time,mechanize,itertools,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
